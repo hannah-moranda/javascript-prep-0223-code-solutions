@@ -5,13 +5,13 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What tags are necessary for a complete HTML Skeleton?
-
+Open and close tabs of each tag, <!DOCTYPE html>, <html>, <head>, <title>, and <body>.
 - What type of content belongs within the `<head>` of an HTML document?
-
+Page title
 - What type of content belongs within the `<body>` of an HTML document?
-
+All visible contents, such as headings, paragraphs, image, etc.
 - Where must the `DOCTYPE` declaration appear in a valid HTML document?
-
+First line
 ## Notes
 
 All student notes should be written here.
